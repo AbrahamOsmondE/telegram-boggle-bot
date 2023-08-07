@@ -1,4 +1,4 @@
-# telegram-boggle-bot
+# telegram-boggle-bot ([t.me/mabooriqueBot](https://t.me/mabooriqueBot))
 This bot was made in order to help during boggle trainings, and provide an easy way for players to find solutions to a boggle board
 
 This bot was written in python, and deployed through lambda. Then lambda function handler URL is then registered to a telegram bot webhook.
